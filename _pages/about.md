@@ -28,7 +28,7 @@ For those of you unfamiliar with the disease, it is an autoimmune disease in whi
 
 If life hadn't thrown me this disaster of a curveball, I may have still been in the Navy til this day, closing in on retirement in another 4 years (20 Navy career span). I know that not everyone else diagnosed with an automimmune disease can be as lucky as me and come out the other side so clean, so I'm extremeley grateful for the experience. Its because of this that I now  know what it was like to hit rock bottom. I've learned how important it is to stand up for yourself, I've learned how my decisions can affect those around me, and most importantly, I've learned to never lose hope and fight things to the very end.
 
-Since my time in the Navy and my path to remission, I've experienced the joy of becoming a father, delving into the world of full stack web development, returning to school, and recently graduating from UC Berkeley with a degree in Data Science. I have a deep love for mathematics, and solving complex problems. In my free time you can catch me automating away the mundane repetitive tasks of my life, playing with AI tech & training models, playing Yu-Gi-Oh!, or gardending.
+Since my time in the Navy and my path to remission, I've experiened the joy of  delving into the world of full stack web development, returning to school, and recently graduating from UC Berkeley with a degree in Data Science. I have a deep love for mathematics, and solving complex problems. In my free time you can catch me automating away the mundane repetitive tasks of my life, playing with AI tech & training models, playing Yu-Gi-Oh!, or gardending.
 
 The primary value I bring to a team are in three key areas:
 
